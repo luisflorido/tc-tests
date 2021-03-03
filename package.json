@@ -1,0 +1,14 @@
+{
+  "name": "tc-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luisflorido/tc-tests.git",
+  "author": "Luis <luiisflorido@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
